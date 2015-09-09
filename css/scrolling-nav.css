@@ -14,6 +14,20 @@ html {
     height: 100%;
 }
 
+/*header {
+    text-align: center;
+    color: #ADD8E6;
+    background-attachment: scroll;
+    background-image: url(../img/JustinPic.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-shadow: 2px 2px 4px #000000;
+}*/
+
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -33,49 +47,68 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 200px;
     text-align: center;
     background: #fff;
+    background-image: url(../img/JustinPic.jpg);
+    text-align: center;
+    color: black;
+    background-attachment: scroll;
+    background-image: url(../img/JustinPic.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+/*    text-shadow: 2px 2px 4px #000000;*/
+}
+
+.background-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
 }
 
 .examples-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: #fff;
 }
 
 .why-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #eee;
 }
 
 .options-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: #fff;
 }
 
 .download-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #eee;
 }
 
 .manipulate-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #eee;
+    background: #fff;
 }
 
 .customDomain-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #eee;
 }
