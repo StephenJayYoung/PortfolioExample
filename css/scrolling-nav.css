@@ -64,13 +64,6 @@ of those sections to manage the look and feel of the site. */
 /*    text-shadow: 2px 2px 4px #000000;*/
 }
 
-.background-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #eee;
-}
-
 .examples-section {
     height: 100%;
     padding-top: 150px;
@@ -84,6 +77,7 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #eee;
 }
+
 
 .options-section {
     height: 100%;
