@@ -52,7 +52,7 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
     background-image: url(../img/JustinPic.jpg);
     text-align: center;
-    color: black;
+    color: white;
     background-attachment: scroll;
     background-image: url(../img/JustinPic.jpg);
     background-position: center center;
@@ -61,7 +61,7 @@ of those sections to manage the look and feel of the site. */
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-/*    text-shadow: 2px 2px 4px #000000;*/
+    text-shadow: -1px 0 black, 0 .3px black, .3px 0 black, 0 -1px black;
 }
 
 .examples-section {
@@ -105,4 +105,8 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #eee;
+}
+
+.info-text {
+    text-align: left;
 }
