@@ -69,6 +69,7 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
+    padding-bottom: 250px;
 }
 
 .why-section {
@@ -109,4 +110,23 @@ of those sections to manage the look and feel of the site. */
 
 .info-text {
     text-align: left;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    text-decoration: none;
 }
